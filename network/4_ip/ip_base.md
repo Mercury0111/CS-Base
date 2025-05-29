@@ -7,8 +7,6 @@
 ![IP 基础知识全家桶](https://cdn.jsdelivr.net/gh/xiaolincoder/ImageHost/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/IP/1.jpg)
 
 
-> 为啥要比喻成菜？因为小林是**菜狗**（押韵不？）
-
 ---
 
 ## 前菜 —— IP 基本认识
